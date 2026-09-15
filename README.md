@@ -47,6 +47,7 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
 3. Результаты работы программы
 
 Было = 21.317
+
 Стало = 317.21
 
 
